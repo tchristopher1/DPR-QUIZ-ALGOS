@@ -8,4 +8,5 @@ Algorithm Quiz 1
   <li>Submit a binary search example by adding a file to this project after forking it. Be sure to explain how the example functions using comments or in this README.</li>
  The code searches for where the element is present.
   <li>Is a selection sort or a bubble sort faster?</li>
+ Selection sort is faster.
  </ol>
